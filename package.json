@@ -12,19 +12,5 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/mue/nodewrapper"
-    },
-    "keywords": [
-        "color",
-        "colour",
-        "colors",
-        "colours",
-        "ansi",
-        "style",
-        "styles",
-        "terminal",
-        "console",
-        "lightweight",
-        "rgb",
-        "256"
-    ]
+    }
 }

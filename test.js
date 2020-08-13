@@ -1,4 +1,4 @@
 const Mue = require('./index.js');
-const mue = new Mue()
+const mue = new Mue();
 
-mue.randomImg('', 'webp').then(res => console.log(res))
+mue.randomQuote().then(res => console.log(res))
