@@ -1,0 +1,30 @@
+{
+    "name": "@muetab/wrapper",
+    "version": "0.0.1",
+    "description": "Node.js module for the Mue API",
+    "author": "David \"ohlookitsderpy\" Ralph",
+    "license": "MIT",
+    "main": "index.js",
+    "bugs": {
+        "url": "https://github.com/mue/nodewrapper/issues"
+    },
+    "homepage": "https://github.com/mue/nodewrapper",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mue/nodewrapper"
+    },
+    "keywords": [
+        "color",
+        "colour",
+        "colors",
+        "colours",
+        "ansi",
+        "style",
+        "styles",
+        "terminal",
+        "console",
+        "lightweight",
+        "rgb",
+        "256"
+    ]
+}
