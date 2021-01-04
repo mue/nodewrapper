@@ -12,5 +12,8 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/mue/nodewrapper"
+    },
+    "dependencies": {
+        "node-fetch": "^2.6.1"
     }
 }
