@@ -1,19 +1,19 @@
 {
-    "name": "@muetab/wrapper",
-    "version": "0.0.1",
-    "description": "Node.js module for the Mue API",
-    "author": "David \"ohlookitsderpy\" Ralph",
-    "license": "MIT",
-    "main": "index.js",
-    "bugs": {
-        "url": "https://github.com/mue/nodewrapper/issues"
-    },
-    "homepage": "https://github.com/mue/nodewrapper",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/mue/nodewrapper"
-    },
-    "dependencies": {
-        "node-fetch": "^2.6.1"
-    }
+  "name": "@muetab/wrapper",
+  "version": "0.0.2",
+  "description": "Node.js module for the Mue API",
+  "author": "The Mue Authors",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "bugs": {
+    "url": "https://github.com/mue/nodewrapper/issues"
+  },
+  "homepage": "https://github.com/mue/nodewrapper",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mue/nodewrapper"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
 }
